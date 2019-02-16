@@ -14,7 +14,6 @@ More information is available at:
 
 - https://pypi.org/project/aaypyutil
 - https://github.com/aayushuppal/aaypyutil
-
 """
 
 
