@@ -13,8 +13,8 @@ with open(os.path.join(HERE, "README.md")) as fid:
 # This call to setup() does all the work
 setup(
     name="aaypyutil",
-    version="1.0.0",
-    description="Binary Heap Priority Queue",
+    version="1.0.1",
+    description="Common python util functions",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/aayushuppal/aaypyutil",
