@@ -1,6 +1,7 @@
 """Setup script for aaypyutil"""
 
 import os.path
+
 from setuptools import setup
 
 # The directory containing this file
@@ -13,7 +14,7 @@ with open(os.path.join(HERE, "README.md")) as fid:
 # This call to setup() does all the work
 setup(
     name="aaypyutil",
-    version="1.0.1",
+    version="1.0.2",
     description="Common python util functions",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -29,7 +30,6 @@ setup(
     ],
     packages=["aaypyutil"],
     include_package_data=True,
-    install_requires=[
-    ],
+    install_requires=[],
     entry_points={},
 )
