@@ -16,7 +16,7 @@ Common python util functions
 ## Info
 
 - `log_util`
-    - `set_root_logger_stdout`
+    - `configure_logger`
 - `func_util`
     - `retry_on_exception` decorator
 
